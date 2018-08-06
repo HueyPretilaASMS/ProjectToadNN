@@ -1,0 +1,9 @@
+C:\Users\grigr\source\repos\ProjectToadNN\ProjectToadNN\bin\Debug\ProjectToadNN.exe.config
+C:\Users\grigr\source\repos\ProjectToadNN\ProjectToadNN\bin\Debug\ProjectToadNN.exe
+C:\Users\grigr\source\repos\ProjectToadNN\ProjectToadNN\bin\Debug\ProjectToadNN.pdb
+C:\Users\grigr\source\repos\ProjectToadNN\ProjectToadNN\bin\Debug\encog-core-cs.dll
+C:\Users\grigr\source\repos\ProjectToadNN\ProjectToadNN\obj\Debug\ProjectToadNN.csprojAssemblyReference.cache
+C:\Users\grigr\source\repos\ProjectToadNN\ProjectToadNN\obj\Debug\ProjectToadNN.csproj.CoreCompileInputs.cache
+C:\Users\grigr\source\repos\ProjectToadNN\ProjectToadNN\obj\Debug\ProjectToadNN.csproj.CopyComplete
+C:\Users\grigr\source\repos\ProjectToadNN\ProjectToadNN\obj\Debug\ProjectToadNN.exe
+C:\Users\grigr\source\repos\ProjectToadNN\ProjectToadNN\obj\Debug\ProjectToadNN.pdb
